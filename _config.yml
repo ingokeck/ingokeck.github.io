@@ -1,0 +1,10 @@
+# Site settings
+title: ingokeck on git
+email: ingokeck@sourceforge.net
+description: "ingokeck on git"
+baseurl: ""
+url: "http://http://ingokeck.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
